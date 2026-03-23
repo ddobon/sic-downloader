@@ -162,3 +162,4 @@ If you use this data in a publication, please cite:
 And acknowledge the data source:
 
 > University of Bremen, Institute of Environmental Physics — <https://seaice.uni-bremen.de>
+# sic-downloader
